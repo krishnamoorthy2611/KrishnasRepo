@@ -10,7 +10,11 @@ public class Testsamplefile {
 
 		System.out.println("hello world");
 		//added new line from git hub
+
 		//this is after adding a comment in git hub
+
+		//added to check teh conflict
+
 	}
 
 }
