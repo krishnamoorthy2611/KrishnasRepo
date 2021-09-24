@@ -14,6 +14,9 @@ public class Testsamplefile {
 		//this is after adding a comment in git hub
 
 		//added to check teh conflict
+		
+		//added a integer
+		int a = 10;
 
 	}
 
