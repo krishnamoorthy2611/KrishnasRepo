@@ -15,8 +15,12 @@ public class Testsamplefile {
 
 		//added to check teh conflict
 		
+<<<<<<< HEAD
 		//added a integer
 		int a = 10;
+=======
+		// this line added ar 6:09 pm
+>>>>>>> branch 'version1.1Branch' of https://github.com/krishnamoorthy2611/KrishnasRepo.git
 
 	}
 
