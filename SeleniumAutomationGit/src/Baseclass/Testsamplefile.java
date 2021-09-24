@@ -10,6 +10,7 @@ public class Testsamplefile {
 
 		System.out.println("hello world");
 		//added new line from git hub
+		//added to check teh conflict
 	}
 
 }
