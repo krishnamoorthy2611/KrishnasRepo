@@ -1,5 +1,8 @@
 
 # gitignore 
 
+logs/*
+!.gitkeep
+
 text3.txt
 text4.txt
